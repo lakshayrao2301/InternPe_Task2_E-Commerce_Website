@@ -32,7 +32,7 @@ This E-Commerce Website is built using HTML, CSS, and JavaScript to create a res
 * Clone the repository from GitHub:
 bash
 * Copy code
-* git clone https://github.com/your-username/e-commerce-website.git
+* git clone https://github.com/lakshayrao2301/InternPe_Task2_E-Commerce_Website.git
 * Navigate to the project directory:
 * bash
 * Copy code
