@@ -1,8 +1,8 @@
-## E-Commerce Website
-Link:-https://khushisangwan0202.github.io/InternPe_E-Commerce_Website/
+
 # E-Commerce Website Readme
 Welcome to our E-Commerce Website! This project aims to provide a user-friendly and intuitive platform for online shopping. Below, you'll find important information on the website's structure, functionality, and how to set it up for your own use.
-
+## Website Link
+* Link:-https://lakshayrao2301.github.io/InternPe_Task2_E-Commerce_Website/
 ## Table of Contents
 * Introduction
 * Features
